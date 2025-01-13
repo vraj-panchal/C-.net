@@ -1,0 +1,14 @@
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\bin\Debug\net8.0\Math_Operations.exe
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\bin\Debug\net8.0\Math_Operations.deps.json
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\bin\Debug\net8.0\Math_Operations.runtimeconfig.json
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\bin\Debug\net8.0\Math_Operations.dll
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\bin\Debug\net8.0\Math_Operations.pdb
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\Math_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\Math_Operations.AssemblyInfoInputs.cache
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\Math_Operations.AssemblyInfo.cs
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\Math_Operations.csproj.CoreCompileInputs.cache
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\Math_Operations.dll
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\refint\Math_Operations.dll
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\Math_Operations.pdb
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\Math_Operations.genruntimeconfig.cache
+C:\Users\VRAJ PANCHAL\Documents\Sem-4\C#\Math_Operations\Math_Operations\obj\Debug\net8.0\ref\Math_Operations.dll
